@@ -30,4 +30,4 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap oficial
-Sitemap: https://fabionunesconsultorti-collab.github.io/canehotsite/sitemap.xml
+Sitemap: https://fabionunesconsultorti-collab.github.io/portifolio/sitemap.xml

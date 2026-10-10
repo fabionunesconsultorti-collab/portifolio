@@ -38,7 +38,7 @@ Projetado para ser **100% autohospedado no GitHub Pages**, com zero dependência
 ## 📁 Estrutura de Arquivos
 
 ```text
-canehotsite/
+portifolio/
 ├── index.html                 # Página principal com SEO, Schema.org e novas seções
 ├── css/
 │   └── style.css             # Design System, layout responsivo, pilares e cards GitHub
@@ -73,7 +73,7 @@ Como o hotsite é estático e puro (Vanilla HTML/CSS/JS), a publicação no GitH
 
 ### Passo 1: Criar o Repositório no GitHub
 1. Acesse [github.com/new](https://github.com/new)
-2. Dê um nome ao repositório (exemplo: `canehotsite` ou `<seu-usuario>.github.io`)
+2. Dê um nome ao repositório (exemplo: `portifolio` ou `<seu-usuario>.github.io`)
 3. Deixe o repositório marcado como **Public** e clique em **Create repository**.
 
 ### Passo 2: Subir os Arquivos via Terminal
@@ -90,7 +90,7 @@ git add .
 git commit -m "feat: hotsite Fábio Nunes Consultor TI completo para GitHub Pages"
 
 # 4. Vincular seu repositório remoto (substitua com o link do seu repositório)
-git remote add origin https://github.com/<SEU_USUARIO>/canehotsite.git
+git remote add origin https://github.com/<SEU_USUARIO>/portifolio.git
 
 # 5. Definir a branch principal como main e enviar os arquivos
 git branch -M main
@@ -105,7 +105,7 @@ git push -u origin main
    - **Branch**: Selecione `main` e a pasta `/ (root)`
 4. Clique em **Save**.
 5. Aguarde cerca de 1 a 2 minutos. O GitHub exibirá o link público do seu site:
-   `https://<seu-usuario>.github.io/canehotsite/`
+   `https://<seu-usuario>.github.io/portifolio/`
 
 ---
 
