@@ -1,4 +1,4 @@
-# 🚀 Cane Tech - Hotsite Profissional de Consultoria & Serviços de TI
+# 🚀 Fábio Nunes Consultor TI - Hotsite Profissional de Consultoria & Serviços de TI
 
 Hotsite institucional de alta performance e conversão, desenvolvido especialmente para divulgação de serviços de consultoria em TI, implantação e parametrização de **ERP Bling**, desenvolvimento de automações/ferramentas sob demanda e gestão de infraestrutura de redes e suporte.
 
@@ -8,23 +8,29 @@ Projetado para ser **100% autohospedado no GitHub Pages**, com zero dependência
 
 ## 📸 Demonstração Visual e Recursos
 
-- **Design System Tech Dark**: Cores profundas (deep titanium), acentos em neon ciano e esmeralda, glassmorphism e tipografia moderna (*Plus Jakarta Sans* e *JetBrains Mono*).
-- **Overview Completo de Serviços**:
-  1. **Implantação de ERP Bling**: Configuração fiscal completa, integração com canais de venda (Mercado Livre, Shopee, Nuvemshop), controle de estoque multicanal e treinamento de equipe.
-  2. **Automação & Ferramentas Sob Demanda**: Integrações via API REST, Webhooks, automações de dados e scripts sob medida.
-  3. **Consultoria Técnica de Sistemas**: Diagnóstico de gargalos, otimização de custos de software e auditoria de processos.
-  4. **Suporte & Infraestrutura de TI**: Redes corporativas, servidores, firewalls e política de Backup 3-2-1 imutável.
-- **Portfólio Interativo com Filtros**:
-  - Filtro em tempo real por categoria (Todos, ERP Bling, Automações, Infraestrutura e Consultoria).
-  - Modal dinâmico com **Estudo de Caso Completo**: Desafio do negócio, Solução técnica implementada e Métricas de impacto alcançado.
-- **Métricas de Impacto com Contadores Animados**:
-  - +500h poupadas/mês por automações
-  - +45 Empresas atendidas
-  - 100% Sincronização Fiscal e Estoque
-  - 99.9% Disponibilidade de Infraestrutura
+- **Design System Tech Dark Premium**: Cores profundas (deep titanium), acentos em neon ciano e esmeralda, glassmorphism e tipografia moderna (*Plus Jakarta Sans* e *JetBrains Mono*).
+- **Perfil & Pilares de Atuação Especializada**:
+  - Gestão & Sistemas (ERPs, WMS, parametrização e normalização)
+  - Omnichannel & Hub (Tray, Marketplaces, Automação n8n/Python)
+  - Infraestrutura & Segurança (pfSense, Backups 3-2-1, Linux/AWS)
+- **Modelos de Contratação Especializados**:
+  1. Diagnóstico e Turnaround Sistêmico
+  2. Implantação de ERP & Hubs de Venda
+  3. Desenvolvimento de Dashboards / BI
+  4. Infraestrutura, Segurança e Backup
+- **6 Cases de Sucesso Reais Implementados**:
+  1. **REDS Calçados**: Migração Completa e Otimização de Custos de ERP (Redução de até 70% em licenciamento)
+  2. **REDS Calçados / Luana Milani Store**: Ecossistema Multicanal de Expansão Nacional (Tray + Marketplaces + ERP)
+  3. **Luana Milani, Mia Bonita, Panterry, Silva & Lima, Liv Beauty**: Padronização e Implantação de ERP Bling em Múltiplos Segmentos
+  4. **Mia Bonita / Silva & Lima**: Business Intelligence Estratégico Integrado ao Bling
+  5. **Baurufer Metalúrgica**: Normalização, Saneamento de Dados e Recuperação de Implantação Crítica
+  6. **Interjeans, Escolas Municipais de Americana, Escritórios de Advocacia, Varejo**: Governança, Continuidade de Negócios e Cibersegurança
+- **Laboratório Open Source / Projetos GitHub**:
+  - Vitrine integrada dos repositórios públicos de [`@fabionunesconsultorti-collab`](https://github.com/fabionunesconsultorti-collab) (CRM Pro Gamificado com WhatsApp e IA, BlingBI, GerenciaZap, CraftManager, GoHorse Image Converter, iMais Documentador, Jogo da Latinha).
+  - Consulta assíncrona automática à API pública do GitHub para exibição de métricas e estrelas.
 - **Formulário de Orçamento com Integração WhatsApp**:
-  - Gera uma mensagem pré-formatada com nome, empresa, serviço selecionado e resumo do projeto, abrindo direto no WhatsApp do cliente com 1 clique.
-- **Botão Flutuante de WhatsApp**: Acesso rápido ao canal de atendimento em qualquer ponto da navegação.
+  - Gera uma mensagem pré-formatada e estruturada pronta para envio via WhatsApp em 1 clique.
+- **Botão Flutuante de WhatsApp**: Atendimento ágil e direto em qualquer ponto de rolagem.
 - **SEO & Performance**: Marcação semântica HTML5, Meta tags Open Graph/Twitter e dados estruturados Schema.org JSON-LD.
 
 ---
@@ -33,17 +39,19 @@ Projetado para ser **100% autohospedado no GitHub Pages**, com zero dependência
 
 ```text
 canehotsite/
-├── index.html                 # Página principal semântica com SEO e Schema.org
+├── index.html                 # Página principal com SEO, Schema.org e novas seções
 ├── css/
-│   └── style.css             # Design System, layout responsivo e animações
+│   └── style.css             # Design System, layout responsivo, pilares e cards GitHub
 ├── js/
-│   └── main.js               # Filtros, modais, contadores e gerador de link WhatsApp
+│   └── main.js               # Dados dos 6 cases, catálogo GitHub, modais e WhatsApp
 ├── assets/
 │   └── images/
 │       ├── hero-dashboard.jpg        # Banner de tecnologia/automações do Hero
-│       ├── project-erp.jpg           # Case Bling ERP & E-Commerce
-│       ├── project-automation.jpg    # Case Automação e APIs
-│       └── project-infra.jpg         # Case Infraestrutura de Redes e Servidores
+│       ├── project-erp.jpg           # Case Migração de ERP (REDS Calçados)
+│       ├── project-omnichannel.jpg   # Case Omnichannel Tray + Marketplaces
+│       ├── project-bi.jpg            # Case Business Intelligence Bling ERP
+│       ├── project-turnaround.jpg    # Case Turnaround e Auditoria (Baurufer)
+│       └── project-infra.jpg         # Case Infraestrutura, pfSense e Backups
 └── README.md                  # Documentação do projeto e guia de deploy
 ```
 
@@ -51,16 +59,11 @@ canehotsite/
 
 ## 🛠️ Como Personalizar Seus Dados
 
-### 1. Alterar Número do WhatsApp
-No arquivo [js/main.js](file:///home/fabio/Projetos/canehotsite/js/main.js), localize a linha com `WHATSAPP_PHONE`:
-```javascript
-const WHATSAPP_PHONE = '5511999999999'; // Substitua pelo seu DDI + DDD + Telefone (ex: 5511987654321)
-```
+### 1. Número do WhatsApp
+Configurado com `5519998306652` ((19) 99830-6652) no [js/main.js](file:///home/fabio/Projetos/canehotsite/js/main.js) e [index.html](file:///home/fabio/Projetos/canehotsite/index.html).
 
-E no arquivo [index.html](file:///home/fabio/Projetos/canehotsite/index.html), busque por `5511999999999` para atualizar os links diretos do cabeçalho, rodapé e botão flutuante.
-
-### 2. Alterar E-mail e Nome/Marca
-No arquivo [index.html](file:///home/fabio/Projetos/canehotsite/index.html), busque por `contato@canetech.com.br` e `Cane Tech` para inserir seus dados de contato.
+### 2. E-mail e Nome/Marca
+Configurado com `fabionunes.consultorti@gmail.com` e `Fábio Nunes Consultor TI`.
 
 ---
 
@@ -84,7 +87,7 @@ git init
 git add .
 
 # 3. Fazer o primeiro commit
-git commit -m "feat: hotsite Cane Tech completo para GitHub Pages"
+git commit -m "feat: hotsite Fábio Nunes Consultor TI completo para GitHub Pages"
 
 # 4. Vincular seu repositório remoto (substitua com o link do seu repositório)
 git remote add origin https://github.com/<SEU_USUARIO>/canehotsite.git
@@ -110,9 +113,12 @@ git push -u origin main
 
 Para abrir e visualizar o site em sua máquina:
 ```bash
-# Com Python 3:
-python3 -m http.server 8080
-
-# Em seguida, acesse no navegador:
-http://localhost:8080
+./iniciar.sh
 ```
+
+Ou diretamente com Python:
+```bash
+python3 -m http.server 8090
+```
+Em seguida, acesse no navegador:
+👉 **http://localhost:8090**
