@@ -1,0 +1,33 @@
+# Robots.txt - Fábio Nunes Consultor TI
+# Permite indexação completa para motores de busca e inteligências artificiais
+
+User-agent: *
+Allow: /
+
+# Motores de Inteligência Artificial (GEO / LLMs)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap oficial
+Sitemap: https://fabionunesconsultorti-collab.github.io/canehotsite/sitemap.xml
