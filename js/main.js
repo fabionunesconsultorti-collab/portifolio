@@ -271,7 +271,16 @@ function initNavbar() {
     document.querySelectorAll('.nav-link').forEach(link => {
       link.addEventListener('click', () => {
         navLinks.classList.remove('open');
+        toggleBtn.setAttribute('aria-expanded', 'false');
       });
+    });
+
+    // Fecha o menu ao clicar fora dele
+    document.addEventListener('click', (e) => {
+      if (!navLinks.contains(e.target) && !toggleBtn.contains(e.target) && navLinks.classList.contains('open')) {
+        navLinks.classList.remove('open');
+        toggleBtn.setAttribute('aria-expanded', 'false');
+      }
     });
   }
 }
